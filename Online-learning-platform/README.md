@@ -14,3 +14,19 @@
 
 #DESCRIPTION OF THE TASK
 ---------------------------------------------------------------------------------------------------------------
+Technologies used 🛠️
+
+- HTML 🚀
+
+- CSS 🚀
+
+- JavaScript 🚀
+
+How To Use 🔧
+
+- Download golive extension in vscode
+- Just go to home.html file and press "Go live"
+
+#Output of the Task
+--------------------------------------------------------------------------------------------------------------
+
