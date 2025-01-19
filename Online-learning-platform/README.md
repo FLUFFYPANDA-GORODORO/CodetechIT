@@ -30,3 +30,5 @@ How To Use 🔧
 #Output of the Task
 --------------------------------------------------------------------------------------------------------------
 
+![Image](https://github.com/user-attachments/assets/96d81a3a-f2c8-49a6-aca1-9be4a24be5e0)
+
