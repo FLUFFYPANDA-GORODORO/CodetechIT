@@ -1,6 +1,6 @@
 #Portfolio website with advanced animations
-
-  **COMPANY** : CODETECT IT SOLUTIONS
+----------------------------------------------------------------------------------------------
+**COMPANY** : CODETECT IT SOLUTIONS
 
 **NAME** : GAURAV ISHWAR PATIL
 
@@ -11,5 +11,5 @@
 **BATCH DURATION** :  January 5th, 2025 to February  5th, 2025
 
 **MENTOR NAME** :  Neela Santhosh Kumar 
-
+-----------------------------------------------------------------------------------------------
 #DESCRIPTION OF THE TASK
