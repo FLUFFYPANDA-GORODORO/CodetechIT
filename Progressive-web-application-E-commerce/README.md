@@ -14,11 +14,22 @@
 
 #DESCRIPTION OF THE TASK
 ------------------------------------------------------------------------------------------------------------
+Technologies used 🛠️
 
+React🚀
 
+Javascript🚀
 
+Node & ExpressJs🚀
 
+Tailwind Css🚀
 
+Stripe & Razorpay for payment gateways🚀
+
+Vercel🚀
+
+How To Use 🔧
+--------------------------------------------------------------------------------------------------------------------------------------------
 - Step 1)Open all the three folders in integrated terminal (Right click on the folder and press this option "Open in integrated terminal")
 - Step 2)In each terminal enter the command "npm install"
 - Step 3)Open the backend terminal and type command "npm run server"
