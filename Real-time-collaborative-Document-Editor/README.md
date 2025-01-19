@@ -26,8 +26,8 @@ Syncfusion🚀
 
 How To Use 🔧
 --------------------------------------------------------------------------------------------------------------------
-Step 1) Open the terminal and enter "npm install" command .
-Step 2) Type  "npm start" command to open the website 
+- Step 1) Open the terminal and enter "npm install" command .
+- Step 2) Type  "npm start" command to open the website 
 
 
 #Output of the task
