@@ -35,3 +35,10 @@ How To Use 🔧
 - Step 3)Open the backend terminal and type command "npm run server"
 - Step 4)Open the frontend terminal and type command "npm run dev"
 - Step 4)Open the admin terminal and type command "npm run dev"
+
+#Output of the Task
+------------------------------------------------------------------------------------------------------------------
+
+![Image](https://github.com/user-attachments/assets/cab7ae95-9d3f-4d40-b6c1-4e9b7ac5e888)
+
+![Image](https://github.com/user-attachments/assets/1eb63e0b-d647-4641-955c-1b00b43aa88b)
